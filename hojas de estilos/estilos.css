@@ -1,0 +1,256 @@
+
+h1{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+section{
+    margin: 20px;
+    padding: 20px;
+    height: 1000px;
+    background-color: rgb(176, 251, 251);
+    overflow: auto;
+}
+footer{
+    margin: 0px;
+    padding: 0px;
+    height: 100px;
+    background-color: rgb(75, 75, 75);
+    color: white;
+    padding-top: 20px;
+   
+}
+p{
+    text-align: justify;
+    font-size: x-large;
+
+}
+h2{
+    font-size: xx-large;
+}
+h3{
+    font-size: xx-large;
+}
+iframe{
+    border-radius: 20px;
+    display: block;
+    margin: auto;
+}
+.h1_bo6{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(234, 138, 4);
+}
+.h1_warzone{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+}
+.h1_mw3{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+}
+
+
+.fondo_index{
+    background-color: antiquewhite;
+   
+}
+.fondo_bo6{
+    background-color: rgb(255, 149, 0);
+}
+.fondo_warzone{
+    background-color: rgb(237, 209, 80);
+}
+.fondo_mw3{
+    background-color: rgb(247, 88, 88);
+}
+.header_index{
+   background-color: rgb(101, 208, 235);
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 20px;
+    height: 100px;
+}
+.header_bo6{
+    background-color:rgb(97, 98, 98);
+     text-align: center;
+     padding-top: 10px;
+     border-radius: 20px;
+     height: 100px;
+ }
+ .header_warzone{
+    background-color:rgb(45, 73, 198);
+     text-align: center;
+     padding-top: 10px;
+     border-radius: 20px;
+     height: 100px;
+ }
+ .header_mw3{
+    background-color:gray;
+     text-align: center;
+     padding-top: 5px;
+     border-radius: 20px;
+     height: 100px;
+ }
+.nav_index{
+    background-color:rgb(101, 208, 235);  
+    height: 50px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+
+    
+}
+.nav_bo6{
+    background-color:rgb(97, 98, 98);  
+    height: 50px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px; 
+}
+.nav_warzone{
+    background-color:rgb(45, 73, 198);  
+    height: 50px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px; 
+}
+.nav_mw3{
+    background-color:gray; 
+    height: 50px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px; 
+}
+.section_bo6{
+    margin: 20px;
+    padding: 20px;
+    height: 1000px;
+    background-color:rgb(97, 98, 98);
+    color: rgb(255, 149, 0);
+    overflow: auto;
+}
+.section_warzone{
+    margin: 20px;
+    padding: 20px;
+    height: 1000px;
+    background-color:rgb(45, 73, 198);
+    color: rgb(255, 255, 255);
+    overflow: auto;
+}
+.section_mw3{
+    margin: 20px;
+    padding: 20px;
+    height: 1000px;
+    background-color:gray;
+    color: rgb(255, 255, 255);
+    overflow: auto;
+    
+}
+.menu_nav{
+    list-style: none;
+    display: inline;
+    float: inline-end;
+    padding-right: 10px;
+    font-size: 20px;
+}
+.imagen_BO6_index{
+    
+    border-radius: 20px;
+    display: block;
+    margin: auto;
+    height: 300px;
+    width: 400px;
+    transition: 0.5s;
+    
+}
+.imagen_soldado_bo6{
+    
+    border-radius: 20px;
+    display: block;
+    margin: auto;
+    height: 300px;
+    width: 400px;
+    transition: 0.5s;
+}
+.imagen_soldado_warzone{
+    
+    
+    display: block;
+    padding-top: 30px;
+    margin: auto;
+    height: 300px;
+    width: 400px;
+    transition: 0.5s;
+}
+.mapa_warzone{
+    
+    border-radius: 20px;
+    display: block;
+    margin: auto;
+    height: 300px;
+    width: 400px;
+    transition: 0.5s;
+}
+.soldados_mw3{
+    
+    border-radius: 20px;
+    display: block;
+    margin: auto;
+    height: 300px;
+    width: 600px;
+    transition: 0.5s;
+}
+.imagen_mw3_olvidado{
+    padding-left: 70px;
+    
+    margin: auto;
+    height: 300px;
+    width: 600px;
+    transition: 0.5s;
+}
+.lista_novedades{
+    font-size: x-large;
+    padding-top: 20px;
+    list-style: none ;
+  
+}
+a{
+    color: black;
+}
+a:hover{
+    transition: 0.5s;
+    color: red;
+}
+
+.imagen_BO6_index:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.imagen_soldado_bo6:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.imagen_soldado_warzone:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.mapa_warzone:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.soldados_mw3:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.imagen_mw3_olvidado:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.items_footer{
+    float: inline-end;
+    padding-right: 20px;
+}
